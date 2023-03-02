@@ -1,1 +1,1 @@
-Creating a project using python programming language.
+IT IS QR-CODE ENCODER AND DECODER.
